@@ -1,0 +1,10 @@
+kaggle
+mediapipe
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+tqdm
+pillow
+torch
+open_clip_torch

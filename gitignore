@@ -1,0 +1,24 @@
+# data and large artifacts
+data/
+outputs/
+*.JPG
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.zip
+*.npy
+*.task
+*.pt
+*.pth
+
+# secrets
+kaggle.json
+.env
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
